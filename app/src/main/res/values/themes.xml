@@ -3,6 +3,7 @@
     <style name="Base.Theme.Alfheim" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:windowBackground">@drawable/ic_launcher_foreground</item>
     </style>
 
     <style name="Theme.Alfheim" parent="Base.Theme.Alfheim" />
