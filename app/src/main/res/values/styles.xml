@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="FullScreenText">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/imfell_regular</item>
+    </style>
+
+    <style name="FullScreenTextItalic" >
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/imfell_italic</item>
+    </style>
+
+</resources>

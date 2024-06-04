@@ -3,4 +3,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="offwhite">#F5F5F5</color>
+    <color name="maple_red">#bf6a63</color>
+    <color name="maple_lighter">#e79e8f</color>
+    <color name="maple_darker">#924442</color>
+    <color name="forestdark">#141611</color>
+    <color name="darkgreen">#3e514b</color>
+    <color name="blue">#60777d</color>
+    <color name="clay">#a7a1a1</color>
 </resources>
